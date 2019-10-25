@@ -6,5 +6,5 @@ DSPIC33FJ128MC802 16bits, 40MIPS, 128 KB
 FLASH,3.3V
 Programmed using MPLAB.
 Language: C
-Each folder contains a section of the code formsome of the main embedded modules in the board.
+Each folder contains a section of the code for some of the main modules in the board.
 Designed on Eagle ®
